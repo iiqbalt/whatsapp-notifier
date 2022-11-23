@@ -1,6 +1,6 @@
 {
   "name": "whatsapp-notifier",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "whatsapp notifier service",
   "main": "index.js",
   "scripts": {
