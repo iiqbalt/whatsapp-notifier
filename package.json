@@ -1,0 +1,31 @@
+{
+  "name": "whatsapp-notifier",
+  "version": "1.0.0",
+  "description": "whatsapp notifier service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iiqbalt/whatsapp-notifier.git"
+  },
+  "keywords": [
+    "whatsapp",
+    "whatsapp-notifier",
+    "whatsapp-template",
+    "template",
+    "convert-whatsapp",
+    "convert-wa",
+    "whatsapp-sender",
+    "react",
+    "react-native",
+    "javascript"
+  ],
+  "author": "iiqbalt - Iqbal Taufiqurrochman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iiqbalt/whatsapp-notifier/issues"
+  },
+  "homepage": "https://github.com/iiqbalt/whatsapp-notifier#readme"
+}
